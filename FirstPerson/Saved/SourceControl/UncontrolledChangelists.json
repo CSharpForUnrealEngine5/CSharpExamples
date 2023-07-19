@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/FirstPerson/Blueprints/BP_PickUp_Rifle_CSharp.uasset",
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EX/80R3T48DIHVVMSO7J9VECA.uasset",
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
+				"C:/UnrealEngine/Dev/CSharpExamples/FirstPerson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset"
+			]
+		}
+	]
+}

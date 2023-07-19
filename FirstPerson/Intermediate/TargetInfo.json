@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstPerson",
+			"Path": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples - Copy\\FirstPerson\\Source\\FirstPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstPersonEditor",
+			"Path": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples - Copy\\FirstPerson\\Source\\FirstPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
