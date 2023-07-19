@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\TopDown\\Source\\TopDown\\TopDown.Build.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\TopDown\\Source\\TopDown.Target.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\TopDown\\Source\\TopDownEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

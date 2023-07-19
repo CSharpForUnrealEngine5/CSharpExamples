@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDown",
+			"Path": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\TopDown\\Source\\TopDown.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownEditor",
+			"Path": "C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\TopDown\\Source\\TopDownEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
