@@ -14,7 +14,6 @@ obj/
 # Visual Studio 2015 user specific files
 .vs/
 *.log
-UE5.vcxproj
 
 # Compiled Object files
 *.slo
