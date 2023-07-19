@@ -1,6 +1,7 @@
 ## CSharpExamples
 
 This repository contains examples of using C# to write Unreal Engine games.
+To find the C# source, look in each folder's Source/[Name]/Game folder.
 The examples are:
 
 [ThirdPerson](https://github.com/CSharpForUnrealEngine5/CSharpExamples/tree/main/ThirdPerson) - 
