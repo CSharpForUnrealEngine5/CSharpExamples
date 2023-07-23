@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples - Copy\\FirstPerson\\Source\\FirstPerson\\FirstPerson.Build.cs",
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples - Copy\\FirstPerson\\Source\\FirstPerson.Target.cs",
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples - Copy\\FirstPerson\\Source\\FirstPersonEditor.Target.cs"
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\FirstPerson\\Source\\FirstPerson\\FirstPerson.Build.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\FirstPerson\\Source\\FirstPerson.Target.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\FirstPerson\\Source\\FirstPersonEditor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }
