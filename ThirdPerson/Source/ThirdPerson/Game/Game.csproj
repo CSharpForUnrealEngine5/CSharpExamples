@@ -6,12 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Compiler\GameFramework\GameFramework.csproj" />
-  </ItemGroup>
-
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="call CompileToCpp.bat" />
   </Target>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Compiler\GameFramework5_2\GameFramework\GameFramework.csproj" />
+  </ItemGroup>
 
 </Project>

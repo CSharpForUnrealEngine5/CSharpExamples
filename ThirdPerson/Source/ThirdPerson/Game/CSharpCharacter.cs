@@ -121,8 +121,8 @@ namespace Game
                 FVector RightDirection = new FRotationMatrix(YawRotation).GetUnitAxis(EAxis.Y);
 
                 // add movement 
-                AddMovementInput(ForwardDirection, MovementVector.Y);
-                AddMovementInput(RightDirection, MovementVector.X);
+                AddMovementInput(ForwardDirection, (float) MovementVector.Y);
+                AddMovementInput(RightDirection, (float) MovementVector.X);
             }
         }
 
@@ -134,8 +134,8 @@ namespace Game
             if (Controller != null)
             {
                 // add yaw and pitch input to controller
-                AddControllerYawInput(LookAxisVector.X);
-                AddControllerPitchInput(LookAxisVector.Y);
+                AddControllerYawInput((float) LookAxisVector.X);
+                AddControllerPitchInput((float)LookAxisVector.Y);
             }
         }
 
