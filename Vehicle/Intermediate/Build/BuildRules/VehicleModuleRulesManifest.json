@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Vehicle\\Source\\Vehicle\\Vehicle.Build.cs",
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Vehicle\\Source\\Vehicle.Target.cs",
-		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\Vehicle\\Source\\VehicleEditor.Target.cs"
-	],
-	"EngineVersion": "5.2.1"
-}
