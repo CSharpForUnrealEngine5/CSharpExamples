@@ -55,8 +55,8 @@ FRotator Rotation=Controller->GetControlRotation();
 FRotator YawRotation=FRotator(0,Rotation.Yaw,0);
 FVector ForwardDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
 FVector RightDirection=FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
-AddMovementInput(ForwardDirection,(float)(MovementVector.Y));
-AddMovementInput(RightDirection,(float)(MovementVector.X));
+AddMovementInput(ForwardDirection,(float)(MovementVector.Y),false);
+AddMovementInput(RightDirection,(float)(MovementVector.X),false);
 }
 }
 void ACSharpCharacter::Look(FInputActionValue Value)

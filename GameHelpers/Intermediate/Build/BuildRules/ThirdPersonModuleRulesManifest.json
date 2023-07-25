@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\GameHelpers\\Source\\ThirdPerson\\ThirdPerson.Build.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\GameHelpers\\Source\\ThirdPerson.Target.cs",
+		"C:\\UnrealEngine\\Dev\\CSharpForUnrealEngine5\\CSharpExamples\\GameHelpers\\Source\\ThirdPersonEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
